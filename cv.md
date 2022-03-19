@@ -49,3 +49,9 @@ function toWeirdCase(string){
 * English - Intermediate(B1)
 * Russian - Native
 * Belarussian - Native
+
+# Projects
+* Portfolio
+* Memory-Game
+* Audio-Player
+* Random-Jokes
